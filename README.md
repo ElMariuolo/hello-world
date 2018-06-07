@@ -1,3 +1,6 @@
 # hello-world
 My first repository<br/>
-Still learnin'...
+Still learnin'...<br/>
+<br/>
+<br/>
+Editing by following of the tutorial.
